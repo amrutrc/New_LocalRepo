@@ -25,4 +25,18 @@ color:beige;
 }::after{
     content: " - Edited";
     color: red;
+
+
+color:beige;
+
+}::after{
+    content: " - Edited";
+    color: red;
+}
+
+
+::content{
+
+content:"Amrut";
+
 }
