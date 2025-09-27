@@ -18,4 +18,18 @@ color: cyan;
 
 
 color:aliceblue;    
+
+
+color:beige;
+
+}::after{
+    content: " - Edited";
+    color: red;
+}
+
+
+::content{
+
+content:"Amrut";
+
 }
