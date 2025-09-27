@@ -13,9 +13,4 @@ color:   blueviolet;
 color:   peru;
 
 
-color:beige;
-
-}::after{
-    content: " - Edited";
-    color: red;
 }
