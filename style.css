@@ -18,4 +18,11 @@ color: cyan;
 
 
 color:aliceblue;    
+
+
+color:beige;
+
+}::after{
+    content: " - Edited";
+    color: red;
 }
